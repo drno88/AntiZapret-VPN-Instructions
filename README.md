@@ -11,6 +11,7 @@
 | Инструкция | Описание |
 |---|---|
 | [Routerich / OpenWRT — AmneziaWG](README-ROUTERICH.md) | Настройка AmneziaWG на Routerich и OpenWRT 24+ |
+| [Routerich / OpenWRT — OpenVPN](README-Routerich-OpenVPN.md) | Настройка OpenVPN на Routerich и OpenWRT 24+ |
 | [WireGuard — OpenWRT](README-WIREGUARD.md) | Настройка WireGuard на OpenWRT 23.05.5+ |
 
 ---
