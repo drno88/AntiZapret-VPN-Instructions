@@ -52,6 +52,9 @@
    - `openvpn-openssl`
    - `luci-app-openvpn`
    - `luci-i18n-openvpn-ru` (или `luci-i18n-openvpn-en`)
+
+   ![Проверка пакетов OpenVPN](images/openvpn_packages.png)
+
 4. Если пакеты не установлены — обновите список и установите их:
    ```sh
    opkg update
