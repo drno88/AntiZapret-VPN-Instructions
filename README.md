@@ -2,7 +2,7 @@
 
 > Сборник инструкций по настройке клиента **AntiZapret VPN** на роутерах с прошивкой **OpenWRT**.
 
-Проект [AntiZapret VPN](https://github.com/GubernievS/AntiZapret-VPN) — бесплатная система обхода блокировок для российских пользователей.
+Проект [AntiZapret VPN](https://github.com/GubernievS/AntiZapret-VPN)
 
 ---
 
@@ -12,7 +12,6 @@
 |---|---|
 | [Routerich / OpenWRT — AmneziaWG](README-Routerich-AmneziaWG.md) | Настройка AmneziaWG на Routerich и OpenWRT 24+ |
 | [Routerich / OpenWRT — OpenVPN](README-Routerich-OpenVPN.md) | Настройка OpenVPN на Routerich и OpenWRT 24+ |
-| [WireGuard — OpenWRT](README-WIREGUARD.md) | Настройка WireGuard на OpenWRT 23.05.5+ |
 
 ---
 
