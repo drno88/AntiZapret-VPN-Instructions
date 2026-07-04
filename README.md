@@ -3,6 +3,7 @@
 > Сборник инструкций по настройке клиента **AntiZapret VPN** на роутерах с прошивкой **OpenWRT**.
 
 Проект [AntiZapret VPN](https://github.com/GubernievS/AntiZapret-VPN)
+Ссылка на этот репо [Antizapret-Instructions](https://github.com/drno88/AntiZapret-VPN-Instructions)
 
 ---
 
